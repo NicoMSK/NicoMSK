@@ -1,58 +1,59 @@
 <div align="center">
   <h1>Привет 👋, я Николай</h1>
-  <p>Я Frontend-разработчик, создаю удобные веб-интерфейсы на React и TypeScript</p>
+  <p>Frontend-разработчик, создаю удобные веб-интерфейсы на React и TypeScript</p>
 </div>
 <div align="center">
-  <a href="@NicoEKX">
-    <img src="https://img.shields.io/badge/GitHub-@NicoMSK-black?style=for-the-badge&logo=github" alt="telegramm" />
-  </a>
-  <a href="mailto:evik695@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <a href="https://t.me/NicoEKX">
+  <img src="./tg.svg"/>
+</a>&nbsp;
+<a href="mailto:evik695@gmail.com">
+  <img src="./gmail.svg" alt="email"/>
+</a>
 </div>
 
 ---
 
 ## 💼 О себе
 
-Я начинающий Frontend-разработчик, увлечённый созданием понятных, логичных и поддерживаемых веб-приложений. Основной стек: **React, TypeScript, JavaScript, HTML/CSS, SCSS и Git**.
+💻 В работе уделяю внимание логике, структуре и удобству для пользователя. Стараюсь писать понятный и поддерживаемый код.
+
+🚀 Основной стек: **React, TypeScript, JavaScript, HTML/CSS, SCSS и Git**.
+
+📚 Сейчас углубляю знания в React, TypeScript и архитектуре фронтенд-приложений.
+
+🚗 Вне разработки интересуюсь автомобилями и автомобильной тематикой.
+
+💼 Сейчас ищу возможность развиваться в роли Frontend Developer в команде с наставничеством.
+
+📨 Открыт к общению и сотрудничеству.
 
 ---
 
 ## 🛠️ Технологии и инструменты
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-</div>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+</div>
 
 ---
 
-## 🚀 Проекты
+## 🚀 Основные проекты
 
-### ⭐ To-Do приложение (React + TypeScript)
+###
 
-- Добавление, редактирование и удаление задач
-- Реализована работа со состоянием компонентов  
-  📌 https://github.com/NicoMSK/todo-react
-
-### 🌦️ Погодное приложение (TypeScript)
-
-- Асинхронные запросы к API и работа с данными  
-  📌 https://github.com/NicoMSK/weather-app
-
-### 📷 Keksogram (React + TypeScript)
-
-- Интерактивный интерфейс, React Hooks и архитектура компонентов  
-  📌 https://github.com/NicoMSK/keksogram
-
----
-
-> Спасибо за визит! 🚀  
-> Буду рад сотрудничеству и новым задачам.
+<a href="https://github.com/NicoMSK/todo-react">
+<p>⭐ To-Do приложение (React + TypeScript)</p>
+</a>
+<a href="https://github.com/NicoMSK/weather-app">
+<p>🌦️ Погодное приложение (TypeScript)</p>
+</a>
+<a href="https://github.com/NicoMSK/keksogram">
+<p>📷 Keksogram (React + TypeScript)</p>
+</a>
