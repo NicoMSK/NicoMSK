@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**NicoMSK/NicoMSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет 👋
+👩‍💻 Привет, меня зовут  , я разработчик программного обеспечения, увлеченная фронтенд-разработкой.
 
-Here are some ideas to get you started:
+💡 Я специализируюсь на создании удобных веб-приложений с использованием React , TypeScript и Scss . Меня вдохновляют новые задачи и постоянное развитие.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚙
+
+💼 В данный момент я активно ищу новую работу! Ранее в AMZScout я работал над приложением SSG на основе Astro , React (а позже и Svelte ), интегрированным с CMS Sanity .
+
+🌱 В настоящее время я изучаю AWS , Docker и MongoDB .
+
+📨 Свяжитесь со мной, если хотите сотрудничать, мой электронный адрес указан в моем профиле!
