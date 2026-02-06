@@ -20,7 +20,7 @@
 📨 Открыт к общению и сотрудничеству. Мои контакты:
 <span>&nbsp;
 <a href="https://t.me/NicoEKX">
-<img src="./tg.svg"/>
+<img src="./tg.svg" width="28" height="28"/>
 </a>&nbsp;
 <a href="mailto:evik695@gmail.com">
 <img src="./gmail.svg" alt="email"/>
@@ -36,10 +36,10 @@
 <a href="https://github.com/NicoMSK/todo-react">
 <p>☑️ To-Do приложение (React + TypeScript)</p>
 </a>
-<a href="https://github.com/NicoMSK/weather-app">
+<a href="https://github.com/NicoMSK/Weather-forecast-app">
 <p>🌦️ Погодное приложение (TypeScript)</p>
 </a>
-<a href="https://github.com/NicoMSK/keksogram">
+<a href="https://github.com/NicoMSK/Kekstagram">
 <p>📷 Keksogram (React + TypeScript)</p>
 </a>
 
