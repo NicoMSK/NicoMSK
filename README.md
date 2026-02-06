@@ -2,18 +2,10 @@
   <h1>Привет 👋, я Николай</h1>
   <p>Frontend-разработчик, создаю удобные веб-интерфейсы на React и TypeScript</p>
 </div>
-<div align="center">
-  <a href="https://t.me/NicoEKX">
-  <img src="./tg.svg"/>
-</a>&nbsp;
-<a href="mailto:evik695@gmail.com">
-  <img src="./gmail.svg" alt="email"/>
-</a>
-</div>
 
 ---
 
-## 💼 О себе
+## 👨 О себе
 
 💻 В работе уделяю внимание логике, структуре и удобству для пользователя. Стараюсь писать понятный и поддерживаемый код.
 
@@ -25,7 +17,31 @@
 
 💼 Сейчас ищу возможность развиваться в роли Frontend Developer в команде с наставничеством.
 
-📨 Открыт к общению и сотрудничеству.
+📨 Открыт к общению и сотрудничеству. Мои контакты:
+<span>&nbsp;
+<a href="https://t.me/NicoEKX">
+<img src="./tg.svg"/>
+</a>&nbsp;
+<a href="mailto:evik695@gmail.com">
+<img src="./gmail.svg" alt="email"/>
+</a>
+</span>
+
+---
+
+## 👨‍💻 Основные проекты
+
+###
+
+<a href="https://github.com/NicoMSK/todo-react">
+<p>☑️ To-Do приложение (React + TypeScript)</p>
+</a>
+<a href="https://github.com/NicoMSK/weather-app">
+<p>🌦️ Погодное приложение (TypeScript)</p>
+</a>
+<a href="https://github.com/NicoMSK/keksogram">
+<p>📷 Keksogram (React + TypeScript)</p>
+</a>
 
 ---
 
@@ -43,17 +59,3 @@
 </div>
 
 ---
-
-## 🚀 Основные проекты
-
-###
-
-<a href="https://github.com/NicoMSK/todo-react">
-<p>⭐ To-Do приложение (React + TypeScript)</p>
-</a>
-<a href="https://github.com/NicoMSK/weather-app">
-<p>🌦️ Погодное приложение (TypeScript)</p>
-</a>
-<a href="https://github.com/NicoMSK/keksogram">
-<p>📷 Keksogram (React + TypeScript)</p>
-</a>
