@@ -33,14 +33,14 @@
 
 ###
 
-<a href="https://github.com/NicoMSK/todo-react">
-<p>☑️ To-Do приложение (React + TypeScript)</p>
+<a href="https://github.com/NicoMSK/frontend-challenge">
+<p> - Галерея с котиками (React, TypeScript, REST API, localStorage)</p>
 </a>
-<a href="https://github.com/NicoMSK/Weather-forecast-app">
-<p>🌦️ Погодное приложение (TypeScript)</p>
+<a href="https://github.com/NicoMSK/Messenger">
+<p> - Messenger (в разработке) (React, TypeScript, React Router, Material UI)</p>
 </a>
 <a href="https://github.com/NicoMSK/Kekstagram">
-<p>📷 Keksogram (React + TypeScript)</p>
+<p> - Социальная лента (React, TypeScript)</p>
 </a>
 
 ---
@@ -48,7 +48,7 @@
 ## 🛠️ Технологии и инструменты
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
